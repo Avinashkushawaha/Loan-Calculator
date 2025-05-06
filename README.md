@@ -4,7 +4,7 @@ A modern and responsive **Loan Application** built using **React.js**, **Tailwin
 
 ## 🌐 Live Demo
 
-👉 [Visit on Netlify](https://your-netlify-link.netlify.app)
+👉 [Visit on Vercel](https://loan-calculator-lovat-two.vercel.app/)
 
 > Replace the link above with your actual deployed URL.
 
